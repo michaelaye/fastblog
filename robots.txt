@@ -1,1 +1,1 @@
-Sitemap: https://michaelaye.github.io/fastblog/sitemap.xml
+Sitemap: https://fastpages.fast.ai/sitemap.xml
